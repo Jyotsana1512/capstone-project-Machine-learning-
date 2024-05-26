@@ -2,11 +2,11 @@
 #Title: Bike Sharing demand Prediction
 # Introduction & objective 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.Objective of this project is to correctly predict Bike to be rented in differnt time periods,differnt climatic conditions in Seoul City.
-# Rental prediction model can be done by using differnt machine learning Regression algorithms.
-# This project aims to correctly predict bike demand in near future so that we can make necessary arrangemets beforehand.
-# By employing exploratory data analysis (EDA) and robust machine learning regression algorithms,
-# we will unveil hidden insights in customer behavior, enabling us to target campaigns with laser-sharp precision.
-# This translates to higher engagement, deeper customer relationships, and optimized marketing ROI.
+ Rental prediction model can be done by using differnt machine learning Regression algorithms.
+ This project aims to correctly predict bike demand in near future so that we can make necessary arrangemets beforehand.
+ By employing exploratory data analysis (EDA) and robust machine learning regression algorithms,
+ we will unveil hidden insights in customer behavior, enabling us to target campaigns with laser-sharp precision.
+ This translates to higher engagement, deeper customer relationships, and optimized marketing ROI.
 
 # Dataset & Variables
 Describing DataSet
