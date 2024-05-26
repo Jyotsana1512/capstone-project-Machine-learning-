@@ -7,6 +7,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 # By employing exploratory data analysis (EDA) and robust machine learning regression algorithms,
 # we will unveil hidden insights in customer behavior, enabling us to target campaigns with laser-sharp precision.
 # This translates to higher engagement, deeper customer relationships, and optimized marketing ROI.
+
 # Dataset & Variables
 Describing DataSet
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
